@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.81398f46.chunk.css",
-    "main.js": "/static/js/main.5089544c.chunk.js",
+    "main.css": "/static/css/main.dbef4c1f.chunk.css",
+    "main.js": "/static/js/main.3143ee5f.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.e4e2ec9a.js",
-    "static/css/2.aa7857e9.chunk.css": "/static/css/2.aa7857e9.chunk.css",
-    "static/js/2.83a6af60.chunk.js": "/static/js/2.83a6af60.chunk.js",
+    "static/css/2.5bb8910e.chunk.css": "/static/css/2.5bb8910e.chunk.css",
+    "static/js/2.05986807.chunk.js": "/static/js/2.05986807.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.83a6af60.chunk.js.LICENSE.txt": "/static/js/2.83a6af60.chunk.js.LICENSE.txt",
+    "static/js/2.05986807.chunk.js.LICENSE.txt": "/static/js/2.05986807.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/montserrat-vietnamese-400-normal.6325549b.woff2",
     "static/media/styles.scss": "/static/media/blackhole.4c080d82.png",
     "static/media/astralogo.60207cd8.png": "/static/media/astralogo.60207cd8.png",
@@ -17,9 +17,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e4e2ec9a.js",
-    "static/css/2.aa7857e9.chunk.css",
-    "static/js/2.83a6af60.chunk.js",
-    "static/css/main.81398f46.chunk.css",
-    "static/js/main.5089544c.chunk.js"
+    "static/css/2.5bb8910e.chunk.css",
+    "static/js/2.05986807.chunk.js",
+    "static/css/main.dbef4c1f.chunk.css",
+    "static/js/main.3143ee5f.chunk.js"
   ]
 }
